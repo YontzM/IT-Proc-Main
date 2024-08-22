@@ -1,0 +1,16 @@
+{
+  "Themes": [
+    {
+      "EntityName": "PowerAppsTheme",
+      "ThemeName": "PowerAppsTheme"
+    },
+    {
+      "BasePaletteColor": "#277C78",
+      "EntityName": "MIDB",
+      "Font": "Lato",
+      "HueTorsion": 100,
+      "ThemeName": "MIDB",
+      "Vibrancy": 100
+    }
+  ]
+}
